@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tobyyy66
+- 👋 Hi, I’m @adityafajarsy
+  
 - 👀 I’m interested in web developing also data analytics
 - 🌱 I’m currently learning python, java script etc
 - 💞️ I’m looking to collaborate on ...
