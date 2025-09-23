@@ -36,10 +36,6 @@ Now, I focus on front-end development with **React.js** and **Redux**, while exp
 ---
 
 ## 🔗 Connect with Me  
-<a target:_blank>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/adityafajarsy](https://www.linkedin.com/in/adityafajarsy/))  
-</a>
 
-<a target:_blank>
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/adityafajarsyy)  
-</a
