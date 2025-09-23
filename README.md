@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Aditya Fajar  
 
-💻 Aspiring Full-Stack MERN Developer | 🎨 Creative Background in Design & Storytelling  
+💻 Full-Stack Dev Learner | 🎨 Creative Background in Design & Communication & Video Editing 
 
 ---
 
 ## 🚀 About Me  
-My journey into tech started from an unconventional path—Russian Literature at Padjadjaran University. Along the way, I discovered a passion for design, storytelling, and building digital experiences.  
+My journey into tech started from an unconventional path Russian Literature at Padjadjaran University. Along the way, I discovered a passion for design, storytelling, and building digital experiences.  
 
 Now, I focus on front-end development with **React.js** and **Redux**, while expanding to back-end technologies to become a **full-stack MERN developer**. I aim to combine creativity and technical skills to craft impactful, user-friendly applications.  
 
@@ -34,5 +34,5 @@ Now, I focus on front-end development with **React.js** and **Redux**, while exp
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)  
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/adityafajarsy](https://www.linkedin.com/in/adityafajarsy/))  
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/adityafajarsyy)  
