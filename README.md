@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Fajar  
+# 👋 Hi, I'm Aditya Fajar SY
 
 💻 Full-Stack Dev Learner | 🎨 Creative Background in Design & Communication & Video Editing 
 
