@@ -1,4 +1,4 @@
-#  Hi, I'm Aditya Fajar SY
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4e63aaa2-cd92-4274-a02e-9e72b3bfc91e" />#  Hi, I'm Aditya Fajar SY
 
 💻 Full-Stack Dev Learner | 🎨 Creative Background in Design & Communication & Video Editing 
 
@@ -31,6 +31,9 @@ Now, I focus on front-end development with **React.js** and **Redux**, while exp
   <!-- Tools & Design -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e8040286-fa0a-4082-809c-3aa495c21093" />
+
+
 </p>  
 
 ---
