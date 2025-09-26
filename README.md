@@ -1,4 +1,4 @@
-💻 Full-Stack Dev Learner | 🎨 Creative Background in Design 
+💻 Full-Stack Dev Learner 
 
 ---
 
