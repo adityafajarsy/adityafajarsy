@@ -2,7 +2,7 @@
 
 ---
 
-## Hi, I'am Aditya Fajar SY
+#  Hi, I'm Aditya Fajar SY
 
 ## 🚀 About Me  
 My journey into tech started from an unconventional path Russian Literature at Padjadjaran University. Along the way, I discovered a passion for design, storytelling, and building digital experiences.  
