@@ -9,7 +9,8 @@ Now, I focus on front-end development with **React.js** and **Redux**, while exp
 
 ---
 
-## 🛠️ Languages and Tools  
+## 🛠️ Languages and Tools 
+
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>  
