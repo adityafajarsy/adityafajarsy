@@ -5,9 +5,7 @@
 #  Hi, I'm Aditya Fajar SY
 
 ## 🚀 About Me  
-My journey into tech started from an unconventional path Russian Literature at Padjadjaran University. Along the way, I discovered a passion for design, storytelling, and building digital experiences.  
-
-Now, I focus on front-end development with **React.js** and **Redux**, while expanding to back-end technologies to become a **full-stack MERN developer**. I aim to combine creativity and technical skills to craft impactful, user-friendly applications. 
+A motivated web and application developer focused on building modern, efficient, and user friendly digital solutions. I enjoy working with AI and cloud computing to deliver impactful products that combine creativity with technical precision and efficiency.
 
 ---
 
