@@ -40,6 +40,6 @@ Now, I focus on front-end development with **React.js** and **Redux**, while exp
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me  !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityafajarsy)  
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/adityafajarsyy)  
