@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 My journey into tech started from an unconventional path Russian Literature at Padjadjaran University. Along the way, I discovered a passion for design, storytelling, and building digital experiences.  
 
-Now, I focus on front-end development with **React.js** and **Redux**, while expanding to back-end technologies to become a **full-stack MERN developer**. I aim to combine creativity and technical skills to craft impactful, user-friendly applications.  
+Now, I focus on front-end development with **React.js** and **Redux**, while expanding to back-end technologies to become a **full-stack MERN developer**. I aim to combine creativity and technical skills to craft impactful, user-friendly applications. 
 
 ---
 
