@@ -4,7 +4,7 @@
 
 #  Hi, I'm Aditya Fajar SY
 
-## 🚀 About Me  
+## 🚀 About M  
 A motivated web and application developer focused on building modern, efficient, and user friendly digital solutions. I enjoy working with AI and cloud computing to deliver impactful products that combine creativity with technical precision and efficiency.
 
 ---
