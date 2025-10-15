@@ -4,12 +4,12 @@
 
 #  Hi, I'm Aditya Fajar SY
 
-## 🚀 About Me  
+## 🚀 About M  
 A motivated web and application developer focused on building modern, efficient, and user friendly digital solutions. I enjoy working with AI and cloud computing to deliver impactful products that combine creativity with technical precision and efficiency.
 
 ---
 
-## 🛠️ Languages and Tool
+## 🛠️ Languages and Tools
 
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  
