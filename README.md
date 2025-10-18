@@ -1,4 +1,4 @@
-💻 Full-Stack Dev Learner 
+💻 Junior Front-end Engineer -> Full-Stack Dev  
 
 ---
 
