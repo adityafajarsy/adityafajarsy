@@ -1,4 +1,4 @@
-💻 Full-Stack Dev Learner 
+💻 Full-Stack Dev Learne 
 
 ---
 
