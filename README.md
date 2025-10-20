@@ -1,4 +1,4 @@
-💻 Junior Front-end Engineer way to Full-Stack Dev  
+💻 Junior Front-end Engineer  to Full-Stack Dev  
 
 ---
 
