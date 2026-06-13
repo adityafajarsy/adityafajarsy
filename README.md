@@ -1,4 +1,4 @@
-💻 Junior Front-end Engineer to Full-Stack Dev
+💻 Frontend MERN Dev
 
 ---
 
