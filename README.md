@@ -1,84 +1,44 @@
-<div align="center">
-
-<!-- BANNER -->
-<img src="https://via.placeholder.com/900x280/0d0d0d/ffffff?text=YOUR+BANNER+HERE" alt="Banner" width="100%" style="border-radius:12px;" />
-
-</div>
+💻 Fullstack MERN Developer
 
 ---
 
-<div align="center">
+#  Hi, I'm Aditya Fajar SY
 
-## ⠀Know About Me
-
-</div>
-
-**Hey there! I'm [Your Name]**
-
-I'm a [your major/field] undergrad fueled by coffee and an unhealthy obsession with dark themes.
-By day, I pretend to understand algorithms. By night, I write scripts to automate myself out of doing actual work.
-When I'm not coding, I'm probably losing ranked matches and blaming my teammates.
+## 🚀 About Me  
+A motivated web and application developer focused on building modern, efficient, and user friendly digital solutions. I enjoy working with AI and cloud computing to deliver impactful products that combine creativity with technical precision and efficiency.
 
 ---
 
-<div align="center">
+## 🛠️ Languages and Tools
 
-## 🔥 Top Projects *(built to avoid manual labor)*
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>  
 
-</div>
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="mongodb" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  
 
-| Project | Description |
-|--------|-------------|
-| [**ProjectOne**](https://github.com/yourusername/projectone) | Because some code needs to self-destruct gracefully. |
-| [**ProjectTwo**](https://github.com/yourusername/projecttwo) | A bot that manages my server better than I manage my sleep schedule. |
-| [**ProjectThree**](https://github.com/yourusername/projectthree) | RAG-based AI to read text files for me, because reading is hard. |
+  <!-- Tools & Design -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>  
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6e9aa524-f613-41c1-8fa9-e9aa4e34b0c8" />
 
----
 
-<div align="center">
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 🔗 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-0d0d0d?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://yourresume.link)
-
-</div>
+</p>  
 
 ---
 
-<div align="center">
-
-*"Code is never finished. It only becomes slightly less terrible over time."*
-
-*"Every commit I make is essentially just a small, desperate apology to my future self."*
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Contribution
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555)
-
-</div>
+## 🔗 Connect with Me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityafajarsy)  
+[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/adityafajarsyy)  
