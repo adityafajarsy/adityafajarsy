@@ -1,4 +1,4 @@
-💻 Frontend MERN Dev
+💻 Fullstack MERN Developer
 
 ---
 
