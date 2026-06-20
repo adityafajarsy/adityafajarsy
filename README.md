@@ -22,32 +22,28 @@ I'm a full-stack developer fueled by coffee and an unhealthy obsession with clea
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-161b22?style=flat&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat&logoColor=white)
 
-**Backend**
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat&logoColor=white)
+![Express](https://img.shields.io/badge/Express-161b22?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat&logoColor=white)
 
-**Database**
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**Database** &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-161b22?style=flat&logoColor=white)
 
-**Tools**
-&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**Tools** &nbsp;
+![Git](https://img.shields.io/badge/Git-161b22?style=flat&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-161b22?style=flat&logoColor=white)
 
 ---
 
@@ -55,9 +51,9 @@ I'm a full-stack developer fueled by coffee and an unhealthy obsession with clea
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityafajarsy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityafajarsy&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
