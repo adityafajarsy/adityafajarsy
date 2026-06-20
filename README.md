@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## 🧠 Know About Me
+# 🧠 Know About Me
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-161b22?style=flat&logoColor=white)
@@ -64,7 +64,7 @@
 
 </div>
 
-## 🔗 Connect
+# 🔗 Connect
 
 <div align="center">
 
