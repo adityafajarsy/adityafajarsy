@@ -17,9 +17,7 @@
 
 **Hey there! I'm Aditya**
 
-I'm a full-stack developer fueled by coffee and an unhealthy obsession with clean code and dark themes.
-By day, I pretend to understand system architecture. By night, I write scripts to automate myself out of doing actual work.
-When I'm not coding, I'm probably losing ranked matches or convincing myself that *one more side project* is a good idea.
+A Front-End Developer with a background in Language Literature, Graphic Design and Creative Media. I build user pov websites where proper design meets seamless functionality. Balancing technical execution with strategic business goals, my focus is always on engineering web solutions that effectively solve real company problems.
 
 <br clear="left"/>
 
