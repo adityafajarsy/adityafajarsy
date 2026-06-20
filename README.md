@@ -16,6 +16,7 @@
 <div>
   <img align="left" src="segitiga.png" width="40%" style="margin-right: 5%;" />
   <div style="width: 45%; display: inline-block; vertical-align: center;">
+    <br/><br/><br/><br/>
     <p><strong>Hey there! I'm Aditya</strong></p>
     <p>A Front-End Developer with a background in Language Literature, Graphic Design and Creative Media. I build user pov websites where proper design meets seamless functionality. Balancing technical execution with strategic business goals, my focus is always on engineering web solutions that effectively solve real company problems.</p>
   </div>
