@@ -3,9 +3,9 @@
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/adityafajarsy/adityafajarsy?style=flat&logo=starship&logoColor=white&label=STARS&color=161b22)
-![Forks](https://img.shields.io/github/forks/adityafajarsy/adityafajarsy?style=flat&logo=git-fork&logoColor=white&label=FORKS&color=161b22)
-![Followers](https://img.shields.io/github/followers/adityafajarsy?style=flat&logo=person&logoColor=white&label=FOLLOWERS&color=161b22)
+![Stars](https://img.shields.io/github/stars/adityafajarsy/adityafajarsy?style=flat-square&logo=star&logoColor=white&label=STARS&labelColor=161b22&color=161b22)
+![Forks](https://img.shields.io/github/forks/adityafajarsy/adityafajarsy?style=flat-square&logo=git-fork&logoColor=white&label=FORKS&labelColor=161b22&color=161b22)
+![Followers](https://img.shields.io/github/followers/adityafajarsy?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&labelColor=161b22&color=161b22)
 
 </div>
 
