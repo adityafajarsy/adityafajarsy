@@ -3,9 +3,9 @@
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/adityafajarsy/adityafajarsy?style=flat&logo=github&logoColor=white&label=STARS&color=161b22)
-![Forks](https://img.shields.io/github/forks/adityafajarsy/adityafajarsy?style=flat&logo=git&logoColor=white&label=FORKS&color=161b22)
-![Followers](https://img.shields.io/github/followers/adityafajarsy?style=flat&logo=github&logoColor=white&label=FOLLOWERS&color=161b22)
+![Stars](https://img.shields.io/github/stars/adityafajarsy/adityafajarsy?style=flat&logo=starship&logoColor=white&label=STARS&color=161b22)
+![Forks](https://img.shields.io/github/forks/adityafajarsy/adityafajarsy?style=flat&logo=git-fork&logoColor=white&label=FORKS&color=161b22)
+![Followers](https://img.shields.io/github/followers/adityafajarsy?style=flat&logo=person&logoColor=white&label=FOLLOWERS&color=161b22)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 <h2>🧠 Know About Me</h2>
 
-<img align="left" src="./assets/about-img.png" width="180px" style="margin-right: 20px;" />
+<img align="left" src="segitiga.png" width="180px" style="margin-right: 20px;" />
 
 **Hey there! I'm Aditya**
 
