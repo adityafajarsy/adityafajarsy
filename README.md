@@ -10,23 +10,15 @@
 
 ## 🧠 Know About Me
 
-</div>
+<img align="left" src="./assets/about-img.png" width="180px" style="margin-right: 20px;" />
 
-<table border="0" align="center">
-  <tr>
-    <td width="200px">
-      <img src="./assets/about-img.png" width="180px" />
-    </td>
-    <td valign="top">
-      <h3>Hey there! I'm Aditya</h3>
-      <p>
-        I'm a full-stack developer fueled by coffee and an unhealthy obsession with clean code and dark themes.
-        By day, I pretend to understand system architecture. By night, I write scripts to automate myself out of doing actual work.
-        When I'm not coding, I'm probably losing ranked matches or convincing myself that <em>one more side project</em> is a good idea.
-      </p>
-    </td>
-  </tr>
-</table>
+**Hey there! I'm Aditya**
+
+I'm a full-stack developer fueled by coffee and an unhealthy obsession with clean code and dark themes.
+By day, I pretend to understand system architecture. By night, I write scripts to automate myself out of doing actual work.
+When I'm not coding, I'm probably losing ranked matches or convincing myself that *one more side project* is a good idea.
+
+<br clear="left"/>
 
 ---
 
@@ -34,6 +26,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-161b22?style=flat&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat&logoColor=white)
@@ -64,7 +58,7 @@
 
 ## 🔗 Connect
 
-<div>
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
