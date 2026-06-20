@@ -46,21 +46,6 @@ I'm a full-stack developer fueled by coffee and an unhealthy obsession with clea
 ![Figma](https://img.shields.io/badge/Figma-161b22?style=flat&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
