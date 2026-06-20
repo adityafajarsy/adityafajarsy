@@ -1,7 +1,5 @@
 <img src="banner.png" alt="Banner" width="100%" />
-
-<br/>
-
+<div align="center
 ![Stars](https://img.shields.io/github/stars/adityafajarsy/adityafajarsy?style=for-the-badge&logo=star&logoColor=white&label=STARS&labelColor=161b22&color=161b22)
 ![Forks](https://img.shields.io/github/forks/adityafajarsy/adityafajarsy?style=for-the-badge&logo=git-fork&logoColor=white&label=FORKS&labelColor=161b22&color=161b22)
 ![Followers](https://img.shields.io/github/followers/adityafajarsy?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=161b22&color=161b22)
