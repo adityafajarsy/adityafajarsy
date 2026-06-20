@@ -10,16 +10,21 @@
 </div>
 
 ---
-
+<div align="center">
 <p><strong>Know About Me</strong></p>
+</div>
 
-<img align="left" src="segitiga.png" width="180px" style="margin-right: 20px;" />
-
-**Hey there! I'm Aditya**
-
-A Front-End Developer with a background in Language Literature, Graphic Design and Creative Media. I build user pov websites where proper design meets seamless functionality. Balancing technical execution with strategic business goals, my focus is always on engineering web solutions that effectively solve real company problems.
-
-<br clear="left"/>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="segitiga.png" width="300px" />
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Hey there! I'm Aditya</strong></p>
+      <p>A Front-End Developer with a background in Language Literature, Graphic Design and Creative Media. I build user pov websites where proper design meets seamless functionality. Balancing technical execution with strategic business goals, my focus is always on engineering web solutions that effectively solve real company problems.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
