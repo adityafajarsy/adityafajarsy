@@ -7,9 +7,13 @@
 
 ---
 
+<div align="center">
+
 ## 🧠 Know About Me
 
-<table>
+</div>
+
+<table border="0" align="center">
   <tr>
     <td width="200px">
       <img src="./assets/about-img.png" width="180px" />
@@ -27,31 +31,15 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-161b22?style=flat&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat&logoColor=white)
-
-**Backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat&logoColor=white)
-![Express](https://img.shields.io/badge/Express-161b22?style=flat&logoColor=white)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat&logoColor=white)
-
-**Database** &nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-161b22?style=flat&logoColor=white)
-
-**Tools** &nbsp;
-![Git](https://img.shields.io/badge/Git-161b22?style=flat&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-161b22?style=flat&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-161b22?style=flat&logoColor=white)
-
+...
 ---
 ## 🔗 Connect
 
