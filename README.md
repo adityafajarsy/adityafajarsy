@@ -9,14 +9,21 @@
 
 ## 🧠 Know About Me
 
-**Hey there! I'm [Your Name]**
-
-I'm a full-stack developer fueled by coffee and an unhealthy obsession with clean code and dark themes. By day, I pretend to understand system architecture. By night, I write scripts to automate myself out of doing actual work. When I'm not coding, I'm probably losing ranked matches or convincing myself that *one more side project* is a good idea.
-
-- 🔭 Currently working on something that'll either change the world or crash at runtime
-- 🌱 Always learning — currently deep in **TypeScript** and **system design**
-- 💬 Ask me about **React**, **Python**, or why tabs are objectively better than spaces
-- ⚡ Fun fact: My code works on my machine. That's your problem.
+<table>
+  <tr>
+    <td width="200px">
+      <img src="./assets/about-img.png" width="180px" />
+    </td>
+    <td valign="top">
+      <h3>Hey there! I'm Aditya</h3>
+      <p>
+        I'm a full-stack developer fueled by coffee and an unhealthy obsession with clean code and dark themes.
+        By day, I pretend to understand system architecture. By night, I write scripts to automate myself out of doing actual work.
+        When I'm not coding, I'm probably losing ranked matches or convincing myself that <em>one more side project</em> is a good idea.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
