@@ -6,9 +6,9 @@
 
 ---
 
-<div align="center">
+<div>
 
-# 🧠 Know About Me
+## 🧠 Know About Me
 
 </div>
 
@@ -30,11 +30,9 @@
 
 ---
 
-<div align="center">
+<div>
 
-<div align="center">
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend** &nbsp;
 ![React](https://img.shields.io/badge/React-161b22?style=flat&logoColor=white)
@@ -64,9 +62,9 @@
 
 </div>
 
-# 🔗 Connect
+## 🔗 Connect
 
-<div align="center">
+<div>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
