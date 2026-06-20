@@ -42,17 +42,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat&logoColor=white)
 <br/>
+
 **Backend** &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-161b22?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat&logoColor=white)
 <br/>
+
 **Database** &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-161b22?style=flat&logoColor=white)
 <br/>
+
 **Tools** &nbsp;
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=flat&logoColor=white)
@@ -76,7 +79,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=adityafajarsy&color=blueviolet&style=flat)
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
