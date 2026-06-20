@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <img align="left" src="segitiga.png" width="40%" style="margin-right: 5%;" />
+  <img align="left" src="segitiga.png" width="30%" height="30%" style="margin-right: 5%;" />
   <div style="width: 45%; display: inline-block; vertical-align: center;">
     <br/><br/><br/><br/>
     <p><strong>Hey there! I'm Aditya</strong></p>
