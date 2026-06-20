@@ -11,7 +11,7 @@
 
 ---
 
-<h3>Know About Me</h3>
+<p><strong>Know About Me</strong></p>
 
 <img align="left" src="segitiga.png" width="180px" style="margin-right: 20px;" />
 
@@ -23,7 +23,7 @@ A Front-End Developer with a background in Language Literature, Graphic Design a
 
 ---
 
-<h3>Tech Stack</h3>
+<p><strong>Tech Stack</strong></p>
 
 <div align="center">
 
@@ -57,7 +57,7 @@ A Front-End Developer with a background in Language Literature, Graphic Design a
 
 ---
 
-<h3>🔗 Connect</h3>
+<p><strong>🔗 Connect</strong></p>
 
 <div align="center">
 
