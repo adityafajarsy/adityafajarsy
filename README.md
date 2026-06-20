@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER: Ganti src di bawah dengan link banner lo -->
-<img src="https://via.placeholder.com/900x300/0d1117/ffffff?text=YOUR+BANNER+HERE" alt="Banner" width="100%" />
+<img src="banner.png" alt="Banner" width="100%" />
 
 </div>
 
