@@ -14,14 +14,14 @@
 <p><strong>Know About Me</strong></p>
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="10" cellpadding="0" style="border:none">
   <tr>
-    <td width="50%" align="center">
-      <img src="segitiga.png" width="300px" />
+    <td width="50%" align="center" style="border:none">
+      <img src="segitiga.png" width="280px" />
     </td>
-    <td width="50%" valign="top">
-      <p><strong>Hey there! I'm Aditya</strong></p>
-      <p>A Front-End Developer with a background in Language Literature, Graphic Design and Creative Media. I build user pov websites where proper design meets seamless functionality. Balancing technical execution with strategic business goals, my focus is always on engineering web solutions that effectively solve real company problems.</p>
+    <td width="50%" valign="middle" style="border:none">
+      <strong>Hey there! I'm Aditya</strong><br/><br/>
+      A Front-End Developer with a background in Language Literature, Graphic Design and Creative Media. I build user pov websites where proper design meets seamless functionality. Balancing technical execution with strategic business goals, my focus is always on engineering web solutions that effectively solve real company problems.
     </td>
   </tr>
 </table>
