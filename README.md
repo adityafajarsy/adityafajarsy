@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="100%" />
+<img src="banner.png" alt="Banner" width="100%" />lol
 
 <div align="center">
 <img src="https://img.shields.io/github/stars/adityafajarsy/adityafajarsy?style=for-the-badge&logo=star&logoColor=white&label=STARS&labelColor=161b22&color=161b22" />
