@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="100%" />wfe
+<img src="banner.png" alt="Banner" width="100%" />
 
 
 <div align="center">
